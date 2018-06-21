@@ -1,1 +1,1 @@
-web: gunicorn ~/datacourse/precourseproj/flask-framework/ticker:app
+web: gunicorn ticker:app
