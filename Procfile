@@ -1,1 +1,1 @@
-web: gunicorn --config python:gunicorn_config ticker:app
+web: gunicorn ~/datacourse/precourseproj/flask-framework/ticker:app
