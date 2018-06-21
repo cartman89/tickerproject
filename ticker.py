@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 app.vars={}
 
-#ZZ
+
 @app.route('/index',methods=['GET','POST'])
 def index():
     if request.method == 'GET':
