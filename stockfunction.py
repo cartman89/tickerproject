@@ -1,5 +1,4 @@
 from os.path import dirname, join
-quandl.ApiConfig.api_key = "x34ca9wEx9rCfwLF54px"
 
 import bokeh
 import pandas as pd
