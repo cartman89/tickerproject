@@ -1,1 +1,1 @@
-web: gunicorn ticker.py:app
+web: gunicorn --pythonpath ticker.py:app
