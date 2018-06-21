@@ -1,5 +1,5 @@
 from os.path import dirname, join
-pip3 install quandl
+pip install quandl
 import quandl
 quandl.ApiConfig.api_key = "x34ca9wEx9rCfwLF54px"
 
