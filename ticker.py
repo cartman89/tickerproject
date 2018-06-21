@@ -5,7 +5,11 @@ application = Flask(__name__)
 application.vars={}
 
 
+<<<<<<< HEAD
 @application.route('/index',methods=['GET','POST'])
+=======
+@app.route('/index',methods=['GET','POST'])
+>>>>>>> origin
 def index():
     if request.method == 'GET':
         return render_template('userinfo.html')
