@@ -6,3 +6,4 @@ jinja2
 pip
 simplejson
 quandl
+quandl.ApiConfig.api_key = "x34ca9wEx9rCfwLF54px"
