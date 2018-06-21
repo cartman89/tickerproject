@@ -1,6 +1,5 @@
 from os.path import dirname, join
 
-pip install quandl
 import quandl
 
 import bokeh
