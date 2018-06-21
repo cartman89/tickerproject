@@ -1,1 +1,1 @@
-web: gunicorn ticker:app
+web: gunicorn ticker
