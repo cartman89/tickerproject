@@ -1,5 +1,8 @@
 from os.path import dirname, join
 
+pip install quandl
+import quandl
+
 import bokeh
 import pandas as pd
 from bokeh.plotting import figure, output_file, show
